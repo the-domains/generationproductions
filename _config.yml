@@ -2,6 +2,7 @@ name: GenerationProductions
 favicon: null
 layout_spectrum: 0.281229161657393
 typography_spectrum: 0.8152926366310567
+title: Generation Productions
 cta:
   domain: null
   bucket: null
