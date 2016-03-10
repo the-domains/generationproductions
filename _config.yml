@@ -1,6 +1,6 @@
 name: GenerationProductions
 favicon: null
-layout_spectrum: 0.281229161657393
+layout_spectrum: 1
 typography_spectrum: 0.8152926366310567
 title: Generation Productions
 cta:
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
-  brandStrength: 0.9156716908328235
+    - '#2b4fda'
+    - '#2b2b2b'
+    - '#000000'
+    - '#0000ff'
+    - '#0080ff'
+  brandStrength: 0.875
   lightness: 0.16787991300225258
   saturation: 0.8753501463215798
-  rhythmicContrast: 0.05593479564413428
+  rhythmicContrast: 0.25
 purpose: []
